@@ -2,7 +2,987 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac59f93b-e5c7-4dde-ae7c-b81efda20477" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/SidebarNav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/export.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/jqcandlestick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/monthly.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/slider7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/images/weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/SidebarNav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/SimpleChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/amcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/chartinator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/images/lens.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/index1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/jquery.jqcandlestick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/monthly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/serial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/jquery.tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/langs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/code/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/emoticons/js/emojis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/emoticons/js/emojis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/help/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/image/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/link/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/media/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/print/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/quickbars/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/save/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/table/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/template/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/toc/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/content/default/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/content/document/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/content/writer/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide-dark/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide-dark/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide-dark/content.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide-dark/fonts/tinymce-mobile.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide-dark/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide-dark/skin.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide/content.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide/fonts/tinymce-mobile.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/skins/ui/oxide/skin.mobile.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/themes/mobile/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/themes/silver/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/admin_assets/tinymce/js/tinymce/tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/abtbtm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/bb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/bb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/bb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/bb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/clothsbanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/cp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/dp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hcp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/hp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/ip9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/jp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kappa_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/kp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/menbanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/menu1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/menu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/mp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/np9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/offer9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/pp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/rec1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/rec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/rec3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/shp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/sp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/tp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wap9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wish1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wish2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wish3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/images/wp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/easyResponsiveTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/imagezoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/jquery.wmuSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/js/minicart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/ad-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/ad-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/post-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/img/widget-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/frontend_assets/webmag/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/SidebarNav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/export.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/jqcandlestick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/monthly.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/slider7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/images/weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/SidebarNav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/SimpleChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/amcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/chartinator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/images/lens.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/index1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/jquery.jqcandlestick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/monthly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/serial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/w3layouts-License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/admin/web/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/casuals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/cosmetics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/deos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/formals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/haircare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/handbags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/abtbtm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/bb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/bb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/bb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/bb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/clothsbanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/cp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/dp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hcp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/hp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/ip9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/jp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kappa_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/kp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/menbanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/menu1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/menu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/mp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/np9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/offer9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/pp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/rec1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/rec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/rec3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/shp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/sp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/tp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wap9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wish1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wish2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wish3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/images/wp9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/inner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/jewellery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/easyResponsiveTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/imagezoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/jquery.wmuSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/js/minicart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/kids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/men.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/night.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/party.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/payment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/recommended.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/shoes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/skincare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/w3layouts-License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/watches.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/fashion_club/web/women.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/SidebarNav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/export.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/jqcandlestick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/monthly.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/slider7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/images/weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/SidebarNav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/SimpleChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/amcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/chartinator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/images/lens.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/index1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/jquery.jqcandlestick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/monthly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/serial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/w3layouts-License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/glance_design_dashboard-web_Free06-01-2018_792517429/web/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/blog-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/ad-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/ad-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/post-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/img/widget-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/public/source/webmag/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/auth/logintemplate.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/auth/registertemplate.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/banners/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/banners/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/banners/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/banners/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/config/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/contact/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/contacts/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/category/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/category/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/category/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/category/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/page/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/page/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/page/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/page/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/post/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/post/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/post/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/post/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/tag/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/tag/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/tag/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/content/tag/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/email/draft.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/email/draft/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/email/inbox/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/email/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/email/send.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/email/send/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/media/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menuitems/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menuitems/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menuitems/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menu/menuitems/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menuitem/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menuitem/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menuitem/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/menuitem/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newletters/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newletters/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newletters/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newletters/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newsletters/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newsletters/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newsletters/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/newsletters/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/order-admin/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/adminorder/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/brand/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/brand/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/brand/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/brand/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/category/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/category/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/category/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/category/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/customer/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/order/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/order/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/order/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/review/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/review/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/review/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/review/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/seller/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/shipper/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/statistic/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/statistic/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/statistic/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/shop/statistic/submit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/users/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/content/users/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/dashboard.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/file_temp.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/filetmp.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/layouts/admin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/layouts/glance.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/partials/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/partials/head.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/partials/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/partials/main-js.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/admin/partials/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/seller/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/seller/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/seller/dashboard.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/seller/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/shipper/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/shipper/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/shipper/dashboard.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authen/resources/views/shipper/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BIG_PROJECT_LARAVEL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BIG_PROJECT_LARAVEL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/authen/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/authen/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authen/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/authen/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,36 +990,153 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/authen/composer.json</pharConfigPath>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1757269423">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key=".env file" value="1" />
+          <entry key=".env file" value="3" />
+          <entry key="Blade" value="42" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key=".env file" value="6" />
+          <entry key="Blade" value="2" />
+          <entry key="PHP" value="33" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/authen/.env">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Auth/Admin/LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="-450" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/AdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-127">
+              <caret line="140" column="32" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menuitem/submit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4277" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/MenuItemModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3460">
+              <caret line="182" column="9" lean-forward="true" selection-start-line="182" selection-start-column="9" selection-end-line="182" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://localhost/authen/public/</find>
+      <find>Homepage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_17_092133_create_sellers.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/SellerModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Auth/Seller/LoginController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/SellerController.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_17_095335_create_shippers.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/ShipperModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/ShipperController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Auth/Shipper/LoginController.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_17_150014_create_shop_category.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/ShopCategoryModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ShopCategoryController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ShopCategoryModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Front/ShopCategoryModel.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_031522_create_shop_products.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ShopProductController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ShopProductModel.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_033616_create_content_category.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_033653_create_content_posts.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_033719_create_content_pages.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentCategoryController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentPageController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentPostController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ContentCategoryModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ContentPageModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ContentPostModel.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_075349_create_content_tags.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentTagController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ContentTagModel.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_080424_create_menus.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_080446_create_menu_items.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/MenuController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/MenuItemController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/MenuModel.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/MenuItemModel.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_081807_add_menu_id_to_table_menu_items.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_082218_create_global_settings.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ConfigController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ConfigModel.php" />
+        <option value="$PROJECT_DIR$/authen/config/app.php" />
+        <option value="$PROJECT_DIR$/authen/.env" />
+        <option value="$PROJECT_DIR$/authen/resources/views/admin/partials/head.blade.php" />
+        <option value="$PROJECT_DIR$/authen/resources/views/admin/content/media/index.blade.php" />
+        <option value="$PROJECT_DIR$/authen/config/lfm.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/AdminManagerController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/CustomerManagerController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/SellerManagerController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ShipperManagerController.php" />
+        <option value="$PROJECT_DIR$/authen/database/migrations/2019_09_18_093808_create_shop_brands.php" />
+        <option value="$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ShopBrandController.php" />
+        <option value="$PROJECT_DIR$/authen/app/Model/Admin/ShopBrandModel.php" />
+        <option value="$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/edit.blade.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -53,17 +1150,114 @@
       <path value="$PROJECT_DIR$/authen/vendor/facade/ignition/package.json" />
     </packageJsonPaths>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/authen/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/authen/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/authen/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/authen/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/authen/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/authen/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/authen/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/authen/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/authen/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/authen/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/authen/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/authen/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/authen/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/authen/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/authen/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/authen/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/authen/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/authen/vendor/composer" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/authen/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/authen/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/authen/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/authen/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/authen/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/authen/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/authen/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/authen/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/authen/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/authen/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/authen/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/authen/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/authen/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/authen/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/authen/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/authen/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/authen/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/authen/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/authen/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/authen/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/authen/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/authen/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/authen/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/authen/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/authen/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/authen/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/authen/vendor/darryldecode/cart" />
+      <path value="$PROJECT_DIR$/authen/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/authen/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/authen/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/authen/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/authen/vendor/unisharp/laravel-filemanager" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,16 +1270,194 @@
               <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
               <item name="authen" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+              <item name="Front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="menuitem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_PROJECT_LARAVEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_PROJECT_LARAVEL" type="462c0819:PsiDirectoryNode" />
+              <item name="authen" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PROJECT_LARAVEL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BIG_PROJECT_LARAVEL\authen\resources\views\admin\content\menu\menu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BIG_PROJECT_LARAVEL\authen\resources\views" />
+      <recent name="C:\xampp\htdocs\BIG_PROJECT_LARAVEL\authen\public" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,25 +1481,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568643446378</updated>
-      <workItem from="1568643447642" duration="654000" />
+      <workItem from="1568643447642" duration="883000" />
+      <workItem from="1568685709154" duration="28988000" />
     </task>
+    <task id="LOCAL-00001" summary="ssss">
+      <created>1568647727189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568647727189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="654000" />
+    <option name="totallyTimeSpent" value="29871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="1.0" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -135,11 +1511,37 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3786885" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27704918" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -147,11 +1549,324 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssss" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentPageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentCategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/ContentPageModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/ContentPostModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/ContentCategoryModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/database/migrations/2019_09_18_075349_create_content_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ContentTagController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/ContentTagModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/database/migrations/2019_09_18_080424_create_menus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/database/migrations/2019_09_18_080446_create_menu_items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/MenuController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/MenuItemController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6650">
+          <caret line="276" lean-forward="true" selection-start-line="276" selection-end-line="276" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/MenuModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/database/migrations/2019_09_18_081807_add_menu_id_to_table_menu_items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/database/migrations/2019_09_18_082218_create_global_settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ConfigController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/ConfigModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="101" column="10" lean-forward="true" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-963">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/authen/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="4" selection-start-column="51" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/delete.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menu/menu/delete.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/partials/head.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="267" column="57" selection-start-line="267" selection-start-column="57" selection-end-line="267" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/partials/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1038">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/media/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#238#306#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/config/lfm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3812">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/seller/submit.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/CustomerManagerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/seller/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/seller/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/customer/delete.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/customer/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/customer/submit.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/seller/delete.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ShipperManagerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/SellerManagerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/AdminManagerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/database/migrations/2019_09_18_093808_create_shop_brands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/ShopBrandModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Admin/ShopBrandController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#46#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/users/delete.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/users/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/Auth/Admin/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/shop/product/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="140" column="32" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/resources/views/admin/content/menuitem/submit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authen/app/Model/Admin/MenuItemModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3460">
+          <caret line="182" column="9" lean-forward="true" selection-start-line="182" selection-start-column="9" selection-end-line="182" selection-end-column="9" />
         </state>
       </provider>
     </entry>
